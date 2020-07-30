@@ -5,5 +5,3 @@
 → [Node x64](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
   
 → [Winrar x64](https://navetacandra.github.io/Installer/App/winrar_64_bit_0542220647.exe)
-
-→ [KMSpico .zip(Password:12345)](https://official-kmspico.com/kmspico.zip)
