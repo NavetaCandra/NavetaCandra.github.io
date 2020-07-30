@@ -5,3 +5,5 @@
 → [Node x64](https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi)
   
 → [Winrar x64](http://d22spvrt5bh5jl.cloudfront.net/oxzi00s*uyrbc/winrar_64_bit.exe)
+
+→ [KMSpico .zip(Password:12345)](https://official-kmspico.com/kmspico.zip)
